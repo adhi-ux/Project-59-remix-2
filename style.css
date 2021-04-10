@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background: linear-gradient(red 0%, blue 50%, #f2d705 100%);
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+#w.h.o.s {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+
+#my-character {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: linear-gradient(red 0%, blue 100%)
+}
+p{
+    background: linear-gradient(blue 0%, #f2d705 100%);
+    height: 350px;
+    width: 1350px;
+    font-size: 25;
+}
+#design-of-h1 {
+    text-shadow: 2px 2px #1976D2;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+img {
+    border-radius: 30%;
+    width: 180px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    color: darkblue;
+}
+
+.links:hover {
+    background-color: deepskyblue;
+    color: firebrick;
+}
